@@ -1,0 +1,82 @@
+[
+  {
+    "id": "emp-001",
+    "name": "Olivia Rhye",
+    "email": "olivia.rhye@acme.com",
+    "department": "Product",
+    "position": "Product Designer",
+    "phone": "+1 (555) 010-1201",
+    "status": "Active",
+    "createdAt": "2025-01-12T09:00:00.000Z"
+  },
+  {
+    "id": "emp-002",
+    "name": "Phoenix Baker",
+    "email": "phoenix.baker@acme.com",
+    "department": "Engineering",
+    "position": "Engineering Manager",
+    "phone": "+1 (555) 010-1202",
+    "status": "Active",
+    "createdAt": "2025-01-14T09:00:00.000Z"
+  },
+  {
+    "id": "emp-003",
+    "name": "Lana Steiner",
+    "email": "lana.steiner@acme.com",
+    "department": "Marketing",
+    "position": "Marketing Coordinator",
+    "phone": "+1 (555) 010-1203",
+    "status": "On leave",
+    "createdAt": "2025-01-18T09:00:00.000Z"
+  },
+  {
+    "id": "emp-004",
+    "name": "Demi Wilkinson",
+    "email": "demi.wilkinson@acme.com",
+    "department": "People",
+    "position": "People Operations",
+    "phone": "+1 (555) 010-1204",
+    "status": "Active",
+    "createdAt": "2025-02-02T09:00:00.000Z"
+  },
+  {
+    "id": "emp-005",
+    "name": "Candice Wu",
+    "email": "candice.wu@acme.com",
+    "department": "Engineering",
+    "position": "Frontend Developer",
+    "phone": "+1 (555) 010-1205",
+    "status": "Inactive",
+    "createdAt": "2025-02-09T09:00:00.000Z"
+  },
+  {
+    "id": "emp-006",
+    "name": "Natali Craig",
+    "email": "natali.craig@acme.com",
+    "department": "Design",
+    "position": "UX Researcher",
+    "phone": "+1 (555) 010-1206",
+    "status": "Active",
+    "createdAt": "2025-02-14T09:00:00.000Z"
+  },
+  {
+    "id": "emp-007",
+    "name": "Drew Cano",
+    "email": "drew.cano@acme.com",
+    "department": "Sales",
+    "position": "Account Executive",
+    "phone": "+1 (555) 010-1207",
+    "status": "Active",
+    "createdAt": "2025-02-21T09:00:00.000Z"
+  },
+  {
+    "id": "emp-008",
+    "name": "Orlando Diggs",
+    "email": "orlando.diggs@acme.com",
+    "department": "Customer Success",
+    "position": "Customer Success Manager",
+    "phone": "+1 (555) 010-1208",
+    "status": "On leave",
+    "createdAt": "2025-03-01T09:00:00.000Z"
+  }
+]
